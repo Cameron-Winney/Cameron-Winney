@@ -1,0 +1,45 @@
+.div-check {
+    background: red;
+}
+.container-fluid {
+    background: green;
+}
+body {
+    background: #A0DDFF
+}
+.no-padding{
+    padding:0;
+}
+.small-padding {
+    padding:5px;
+}
+.center-div {
+    margin:auto;
+}
+nav{
+  /*background: #1a1a1d;*/
+  padding: 10px;
+  width:100%
+  
+}
+nav a{
+  text-decoration: none;
+  text-align: inline;
+  color:white;
+  
+  
+}
+nav ul li{
+  display: inline;
+  padding:30px;
+  padding-top:26px;
+  padding-bottom:26px;
+  transition-duration:1s;
+}
+nav ul{
+   text-align: center;
+}
+nav li:hover {
+  background: #4e4e50
+  
+}
