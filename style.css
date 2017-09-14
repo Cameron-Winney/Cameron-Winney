@@ -10,10 +10,10 @@
     background: red;
 }
 .container-fluid {
-    background: green;
+    background: #CAF4ED;
 }
 body {
-    background: #A0DDFF
+    background: #E2FBF7
 }
 .no-padding{
     padding:0;
@@ -33,7 +33,7 @@ nav{
 nav a{
   text-decoration: none;
   text-align: inline;
-  color:white;
+  color: #000000;
   
   
 }
@@ -48,6 +48,6 @@ nav ul{
    text-align: center;
 }
 nav li:hover {
-  background: #4e4e50
+  background: #7ED0C3
   
 }
